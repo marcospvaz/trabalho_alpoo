@@ -1,0 +1,4 @@
+# trabalho_alpoo
+# Trabalho de ALPOO - UNIP
+
+# ARQUIVO PASTA COM O PROJETO JAVA E O JDBC BAIXADO
